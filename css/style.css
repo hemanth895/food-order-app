@@ -1,5 +1,5 @@
 /* 
-    Author: Vijay Thapa;
+        Author: hemanth;
     Theme: Restaurant Food Order;
     version: 1.0;
 */
@@ -38,6 +38,9 @@
 .clearfix{
     clear: both;
     float: none;
+}
+.tbl-full {
+    width: 100%;
 }
 
 a{
