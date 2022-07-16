@@ -6,16 +6,15 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
+
 2. Add a Star 🌟  to this 👆 Repository
 
 ## Donate
 
-**[PayPal](https://bit.ly/support-vijay-thapa)**
+gpay no-8088471310
 
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** ✉️ E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+**[Buy me a Coffee  ☕️]
+ 
 
 
 
@@ -34,11 +33,11 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 
 
 ## For Sponsor or Project Enquiry
-1. Email - hi@vijaythapa.com
+1. Email -hemanthreddy1331@gmail.com
 
 
 ## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa/ "Vijay Thapa on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram/vijaythapa.code/ "Vijay Thapa on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/thevijaythapa/ "Vijay Thapa on Facebook")
-5. Twitter - [@thevijaythapa](https://www.twitter.com/thevijaythapa "Vijay Thapa on Twitter")
+1. LinkedIn - (https://www.linkedin.com/in/hemanth RL/ "Vijay Thapa on LinkedIn")
+2. Instagram - (https://www.instagram/_hemanth_049/ "Vijay Thapa on Instagram")
+
+
