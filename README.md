@@ -37,7 +37,7 @@ gpay no-8088471310
 
 
 ## Follow Me on
-1. LinkedIn - (https://www.linkedin.com/in/hemanth RL/ "Vijay Thapa on LinkedIn")
-2. Instagram - (https://www.instagram/_hemanth_049/ "Vijay Thapa on Instagram")
+1. LinkedIn - https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+2. Instagram - (https://www.instagram/_hemanth_049
 
 
