@@ -49,12 +49,13 @@ if(isset($_POST['submit'])){
      echo "clicked";
 
      $id=$_POST['id'];
-     $curpass=md5($_POST['current_password']);
+     $curpass=md5($_POST['old_password']);
      $newpass=md5($_POST['new_password']);
      $confirmPass=md5($_POST['confirm_password']);
 
 
-     $sql="SELECT * FROM admin WHERE id=$id AND password='$current_password'";
+     $sql="SELECT * FROM admin WHERE id=$id AND password='$curpass'";
+     
      $res=mysqli_query($conn,$sql);
 
      if(res==true){
@@ -63,7 +64,7 @@ if(isset($_POST['submit'])){
           if(count==1){
                if($newpass==$confirmPass){
                     $sql1="UPDATE admin SET
-                    password='$new_password' WHERE id=$id";
+                    password='$newpass' WHERE id=$id";
                     $res1=mysqli_query($conn,$sql1);
                     if($res1==true){
                       $_SESSION['change-pwd']='<div class="success">password vchanged successfully.</div>';

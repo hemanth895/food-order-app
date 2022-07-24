@@ -49,12 +49,12 @@ if(isset($_POST['submit'])){
      
      //echo "buttom clicked";
     $id=$_POST['id'];
-    $full_name=$_POST['full_name'];
+    $fullname=$_POST['full_name'];
     $username=$_POST['username'];
 
-    $sql = "UPDATE admin SET full_name='$full_name', username='$username' WHERE id='$id'";
-    $res=mysql_query($conn,$sql);
-    if(res==true){
+    $sql = "UPDATE admin SET fullname='$fullname', username='$username' WHERE id='$id'";
+    $res=mysqli_query($conn,$sql);
+    if($res==true){
      $_SESSION['update']="<div class='success'>admin updated succesfully</div>";
      header('Location:'.URL.'\admin\manage-admin.php');
     }else{
